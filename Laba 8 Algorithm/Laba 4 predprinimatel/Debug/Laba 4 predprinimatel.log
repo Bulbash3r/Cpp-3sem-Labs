@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Laba 4 predprinimatel.vcxproj, Laba 5 Exception.vcxproj, Laba 6 Template.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+c:\users\yurev\desktop\лабы\laba 8 algorithm\laba 4 predprinimatel\algorithm.h(54): warning C4715: Algorithm<cTourist>::FindName: значение возвращается не при всех путях выполнения
+  Laba 4 predprinimatel.vcxproj -> C:\Users\yurev\Desktop\Лабы\Laba 8 Algorithm\Debug\Laba 8.exe

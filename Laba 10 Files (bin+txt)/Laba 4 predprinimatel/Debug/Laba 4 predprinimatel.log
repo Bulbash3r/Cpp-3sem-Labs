@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Laba 4 predprinimatel.vcxproj, Laba 5 Exception.vcxproj, Laba 6 Template.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+  Создание кода...
+  Компиляция...
+  tourist.cpp
+c:\users\yurev\desktop\лабы\laba 10 files (bin+txt)\laba 4 predprinimatel\tourist.cpp(170): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\users\yurev\desktop\лабы\laba 10 files (bin+txt)\laba 4 predprinimatel\tourist.cpp(321): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  Создание кода...
+  Laba 4 predprinimatel.vcxproj -> C:\Users\yurev\Desktop\Лабы\Laba 10 Files (bin+txt)\Debug\Laba 10 (txt+bin).exe

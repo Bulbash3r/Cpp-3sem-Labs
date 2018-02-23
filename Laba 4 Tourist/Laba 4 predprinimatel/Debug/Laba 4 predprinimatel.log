@@ -1,0 +1,36 @@
+﻿  tourist.cpp
+c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\tourist.cpp(12): error C2664: "cHuman::cHuman(const cHuman &)": невозможно преобразовать аргумент 1 из "char" в "char *"
+  c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\tourist.cpp(13): note: Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+  main.cpp
+c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\businesstourist.h(15): error C2969: синтаксическая ошибка: ;: требуется определение функции-члена до "}"
+c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\main.cpp(13): error C2222: непредвиденный тип "int": ожидался базовый класс или член
+c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\main.cpp(13): error C2061: синтаксическая ошибка: идентификатор "main"
+c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\main.cpp(14): error C2630: обнаружен ";" в списке с разделителем-запятой
+c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\businesstourist.h(15): error C2661: cTourist::cTourist: нет перегруженной функции, принимающей 3 аргументов
+c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\businesstourist.h(15): error C2664: "cBusinessman::cBusinessman(const cBusinessman &)": невозможно преобразовать аргумент 2 из "char *" в "int"
+  c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\main.cpp(14): note: Не существует контекста, в котором такое преобразование возможно
+c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\main.cpp(180): error C2534: cBusinessTourist: конструктор не может возвращать значение
+  c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\businesstourist.h(6): note:  см. объявление "cBusinessTourist"
+c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\main.cpp(180): error C2562: cBusinessTourist::cBusinessTourist: функция типа "void", возвращающая значение
+  c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\businesstourist.h(15): note:  см. объявление "cBusinessTourist::cBusinessTourist"
+c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\main.cpp(185): error C2534: cBusinessTourist: конструктор не может возвращать значение
+  c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\businesstourist.h(6): note:  см. объявление "cBusinessTourist"
+c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\main.cpp(185): error C2562: cBusinessTourist::cBusinessTourist: функция типа "void", возвращающая значение
+  c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\businesstourist.h(15): note:  см. объявление "cBusinessTourist::cBusinessTourist"
+  businesstourist.cpp
+c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\businesstourist.h(15): error C2969: синтаксическая ошибка: ;: требуется определение функции-члена до "}"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\xlocmon(14): error C2059: синтаксическая ошибка: namespace
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\xlocmon(14): error C2630: обнаружен ";" в списке с разделителем-запятой
+c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\businesstourist.h(15): error C2661: cTourist::cTourist: нет перегруженной функции, принимающей 3 аргументов
+c:\users\yurev\documents\visual studio 2017\projects\laba 4 predprinimatel\laba 4 predprinimatel\businesstourist.h(15): error C2664: "cBusinessman::cBusinessman(const cBusinessman &)": невозможно преобразовать аргумент 2 из "char *" в "int"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\xlocmon(14): note: Не существует контекста, в котором такое преобразование возможно
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\xlocmon(18): error C2653: locale: не является именем класса или пространства имен
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\xlocmon(18): error C2504: facet: не определен базовый класс
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\xlocmon(29): error C2653: locale: не является именем класса или пространства имен
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\xlocmon(30): error C2614: cBusinessTourist::{ctor}::money_base: недопустимая инициализация члена: "facet" не является базовым классом или членом
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\xlocmon(36): error C2951: Объявления шаблон разрешены только в глобальной области, области пространства имен и области класса
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\xlocmon(36): error C3856: cBusinessTourist::cBusinessTourist: класс не является классом шаблон
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\xlocmon(271): error C2951: Объявления шаблон разрешены только в глобальной области, области пространства имен и области класса
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\xlocmon(271): error C3856: cBusinessTourist::cBusinessTourist: класс не является классом шаблон
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\xlocmon(308): fatal error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции
+  Создание кода...

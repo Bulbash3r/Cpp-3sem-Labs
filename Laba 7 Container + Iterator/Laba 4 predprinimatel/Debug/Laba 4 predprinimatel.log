@@ -1,0 +1,36 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Laba 4 predprinimatel.vcxproj, Laba 5 Exception.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+c:\users\yurev\desktop\лабы\laba 7 container + iterator\laba 4 predprinimatel\list.h(130): error C2678: бинарный "!=": не найден оператор, принимающий левый операнд типа "Iterator<T>" (или приемлемое преобразование отсутствует)
+          with
+          [
+              T=cTourist
+          ]
+  c:\users\yurev\desktop\лабы\laba 7 container + iterator\laba 4 predprinimatel\list.h(211): note: может быть "bool Iterator<T>::operator !=(Iterator<T> &)"
+          with
+          [
+              T=cTourist
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\system_error(396): note: или       "bool std::operator !=(const std::error_condition &,const std::error_condition &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\system_error(391): note: или       "bool std::operator !=(const std::error_condition &,const std::error_code &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\system_error(386): note: или       "bool std::operator !=(const std::error_code &,const std::error_condition &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\system_error(381): note: или       "bool std::operator !=(const std::error_code &,const std::error_code &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\exception(344): note: или       "bool std::operator !=(const std::exception_ptr &,std::nullptr_t) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\exception(339): note: или       "bool std::operator !=(std::nullptr_t,const std::exception_ptr &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\exception(334): note: или       "bool std::operator !=(const std::exception_ptr &,const std::exception_ptr &) noexcept"
+  c:\users\yurev\desktop\лабы\laba 7 container + iterator\laba 4 predprinimatel\list.h(130): note: при попытке сопоставить список аргументов "(Iterator<T>, nullptr)"
+          with
+          [
+              T=cTourist
+          ]
+  c:\users\yurev\desktop\лабы\laba 7 container + iterator\laba 4 predprinimatel\list.h(124): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\yurev\desktop\лабы\laba 7 container + iterator\laba 4 predprinimatel\main.cpp(40): note: выполняется компиляция ссылки на экземпляр шаблон функции "void List<cTourist>::output(void)"
+  c:\users\yurev\desktop\лабы\laba 7 container + iterator\laba 4 predprinimatel\main.cpp(15): note: выполняется компиляция ссылки на экземпляр шаблон класс "List<cTourist>"
+  Создание кода...
+  Компиляция...
+  human.cpp
+  Создание кода...
+  Компиляция...
+  tourist.cpp
+c:\users\yurev\desktop\лабы\laba 7 container + iterator\laba 4 predprinimatel\tourist.cpp(113): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\users\yurev\desktop\лабы\laba 7 container + iterator\laba 4 predprinimatel\tourist.cpp(264): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  Создание кода...

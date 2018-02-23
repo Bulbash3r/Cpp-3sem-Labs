@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="cBusinessman">
+    <Position X="1.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAgQAAAAAAAAAgAAAABAA=</HashCode>
+      <FileName>businessman.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cBusinessTourist">
+    <Position X="2.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAIAAAgAAACAAA=</HashCode>
+      <FileName>businesstourist.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cHuman">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAAEAAAABAAAAAAEAAAAAAAAQAQAAAAAAgBAEAEAg=</HashCode>
+      <FileName>Human.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cTourist">
+    <Position X="3.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAggAAAAAAAAAAAAAAAAAAAgAAAABAA=</HashCode>
+      <FileName>tourist.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

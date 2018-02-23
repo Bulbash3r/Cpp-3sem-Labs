@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="Circle">
+    <Position X="6.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgABAAAAAAAAAAAEwgEAAAAAAAAAQAAMAA=</HashCode>
+      <FileName>Circle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rectangle">
+    <Position X="8.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAABAAAAAAAAAAAEwAkAAAAAAAAAQAAMAA=</HashCode>
+      <FileName>Rectangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shape">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAABAAAEAAAAAAIAAQAAAAA=</HashCode>
+      <FileName>Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThreeDShape">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAACAAAAAAAAAQAAAAAAAAEAAAACAIAAQIAAAA=</HashCode>
+      <FileName>ThreeDShape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwoDShape">
+    <Position X="8.5" Y="3" Width="1.5" />
+    <InheritanceLine Type="Shape">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="-0.494" Y="0.05" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAEAIAgYAJgAQAAAAA=</HashCode>
+      <FileName>TwoDShape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Triangle">
+    <Position X="10.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAABAABAAAAAAAAEwAEAAAAAAAAAQAAMAA=</HashCode>
+      <FileName>Triangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sphere">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAEAAEAAAAAAIAAQAIAAA=</HashCode>
+      <FileName>Sphere.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cylinder">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAACAAAAAQAAAAAAABAEAAEAAAAAAYAAQAAAAA=</HashCode>
+      <FileName>Cylinder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parallelepiped">
+    <Position X="4" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQAREAAAABAEAAEAAAQAIIAAUAAAAA=</HashCode>
+      <FileName>Parallelepiped.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
