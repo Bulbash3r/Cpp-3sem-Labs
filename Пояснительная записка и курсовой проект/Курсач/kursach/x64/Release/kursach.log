@@ -1,0 +1,12 @@
+﻿  BalanceChange.cpp
+  Consum.cpp
+  File.cpp
+  Income.cpp
+  InputException.cpp
+  ListException.cpp
+  main.cpp
+  User.cpp
+User.cpp(25): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+User.cpp(27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+main.obj : error LNK2001: неразрешенный внешний символ ""public: void __cdecl File<class Income>::FileSave(class List<class Income> &,char const *)" (?FileSave@?$File@VIncome@@@@QEAAXAEAV?$List@VIncome@@@@PEBD@Z)"
+D:\Курсовой проект\kursach\x64\Release\kursach.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
