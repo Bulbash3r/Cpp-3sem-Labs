@@ -57,7 +57,7 @@ myString myString::operator+=(const myString& str)
 		return *this;
 }
 
-myString myString::operator+(const myString& right)
+/*myString myString::operator+(const myString& right)
 {
 		myString temp;
 		temp.length = strlen(this->string) + strlen(right.string)+1;
@@ -70,7 +70,7 @@ myString myString::operator+(const myString& right)
 		strcat(temp.string, " ");
 		strcat(temp.string, right.string);
 		return temp;
-}
+}*/
 
 char& myString::operator[](int i)
 {
